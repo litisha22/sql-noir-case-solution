@@ -4,8 +4,8 @@
 
 ## 📖 Case Brief
 
-The date is October 31, 1987. The Coconut Grove mansion is alive with masks and mystery.
-But before dawn breaks, the revelry turns grim: Leonard Pierce is found dead among the moonlit garden shadows.
+The date is **October 31, 1987**. The **Coconut Grove** mansion is alive with masks and mystery.
+But before dawn breaks, the revelry turns grim: **Leonard Pierce** is found dead among the moonlit garden shadows.
 Can you, detective, gather the hidden clues and reveal the true murderer behind the masquerade?
 
 This investigation will challenge your SQL skills — sharp joins, subtle logical leaps, and persistent curiosity will be your tools.
