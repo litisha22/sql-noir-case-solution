@@ -1,4 +1,4 @@
--- 🕵️ SQL Noir - Case File 2: The Stolen Sound
+-- 🎶 SQL Noir - Case File 2: The Stolen Sound
 -- Crime Type: Theft
 -- Location: West Hollywood Records
 -- Stolen Item: Prized Vinyl Record ($10,000+)
