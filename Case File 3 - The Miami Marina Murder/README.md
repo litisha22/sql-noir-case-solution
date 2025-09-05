@@ -1,13 +1,11 @@
 # ⚓ Case File #003: The Miami Marina Murder
 ---
-
 ## 📖 Case Brief
 The year is 1986. The humid Miami air hangs heavy with secrets.  
 In the early hours of **August 14th**, a body was discovered floating near the docks of **Coral Bay Marina**.  
 The city whispers of foul play, and it’s up to you, detective, to cut through the shadows and find the killer.  
 
 This case won’t be easy — it may require sharp joins, clever wildcard searches, and keen logical deduction.  
-
 ---
 
 ## 🎯 Objectives
