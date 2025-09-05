@@ -6,6 +6,7 @@
 1980s Miami. Neon lights, smoky jazz clubs, and **one missing briefcase**.  
 The Blue Note Lounge was buzzing when it vanished.  
 A witness swore they saw a man in a **trench coat** slip into the night.  
+
 Our job? Find out who took it — and why.  
 
 ---
@@ -26,7 +27,7 @@ Our job? Find out who took it — and why.
 
 ## 🔎 Investigative Approach
 1. Pull the crime scene records tied to the Lounge.  
-2. Trace the “trench coat” lead through the suspects file.  
+2. Trace the “trench coat” lead through the suspects' file.  
 3. Put the suspect’s story to the test in the interview transcripts.  
 4. Close the file with SQL precision.  
 
