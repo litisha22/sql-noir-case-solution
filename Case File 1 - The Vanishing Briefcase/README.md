@@ -3,7 +3,7 @@
 ---
 
 ## 📖 Case Brief
-1980s Miami. Neon lights, smoky jazz clubs, and one missing briefcase.  
+1980s Miami. Neon lights, smoky jazz clubs, and **one missing briefcase**.  
 The Blue Note Lounge was buzzing when it vanished.  
 A witness swore they saw a man in a **trench coat** slip into the night.  
 Our job? Find out who took it — and why.  
