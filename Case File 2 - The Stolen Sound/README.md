@@ -27,6 +27,13 @@ Your task: **track down the thief** and bring them to justice.
 
 ---
 
+## 📊 Final Report
+Dig through [`solution.sql`](solution.sql) — that’s where the pieces fall into place and the thief’s mask slips.
+
+---
+
 ### 🕶️ Detective’s Note
 The case is bigger than a stolen record — it’s about the music, the culture, and the lies hidden under neon lights.  
 Stay sharp. Witnesses rarely agree, but somewhere in their words lies the truth.  
+
+---
