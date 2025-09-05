@@ -107,3 +107,30 @@ WHERE recipient_employee_id IN (
       AND email_date = 19890421
 );
 
+-- ------------------------------------------------------
+-- Email Content Insights
+-- The email reveals a planned sequence involving an employee "L"
+-- needing to be inside facility F18 before 9 via a minor alert,
+-- with someone else using their credentials shortly after.
+-- The timing and access logs will be critical to verify this plot.
+
+-- ------------------------------------------------------
+-- Step 7: Verify Access to Facility 18
+-- Checking which employees accessed Facility 18 on the sabotage day,
+-- focusing on timing to corroborate the planned visit mentioned in emails.
+------------------------------------------------------
+SELECT e.id, e.employee_name, fl.access_date, fl.access_time
+FROM employee_records e
+INNER JOIN facility_access_logs fl ON e.id = fl.employee_id
+WHERE fl.access_date = 19890421
+  AND fl.facility_name = 'Facility 18';
+
+-- Elizabeth Gordon accessed Facility 18 before 9 AM, matching the email alert timeline,
+-- followed shortly by Hristo Bogoev, who used his own credentials.
+-- Based on the email content and access logs, Hristo Bogoev is the prime suspect in the sabotage.
+
+-- 📝 Case Closed:
+-- The shadows lifted, revealing the culprit clearly.
+-- Hristo Bogoev, exposed by the trail of evidence,
+-- admitted to the sabotage and ended the corporate betrayal.
+-- QuantumTech’s secrets are safe once again.
