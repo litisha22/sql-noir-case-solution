@@ -1,5 +1,4 @@
 # ⚓ Case File #003: The Miami Marina Murder
-
 ---
 
 ## 📖 Case Brief
