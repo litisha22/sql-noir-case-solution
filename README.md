@@ -13,13 +13,13 @@ Each folder is a **case file**, packed with witness statements, crime scene evid
 1. **Case File 1 - The Vanishing Briefcase** (XP: 50) [`Case File 1 - The Vanishing Briefcase`](./Case%20File%201%20-%20The%20Vanishing%20Briefcase) 
    A briefcase vanished from the Blue Note Lounge. Last seen with a man in a trench coat.  
 
-2. **Case File 2 - The Stolen Sound** (XP: 100)  
+2. **Case File 2 - The Stolen Sound** (XP: 100) [`Case File 2 - The Stolen Sound`](./Case%20File%202%20-%20The%20Stolen%20Sound)
    A prized vinyl record was stolen from West Hollywood Records. Find the thief before the music dies.  
 
 ---
 
 ### Intermediate Cases
-3. **Case File 3 - The Miami Marina Murder** (XP: 200)  
+3. **Case File 3 - The Miami Marina Murder** (XP: 200) [`Case File 3 - The Miami Marina Murder`](./Case%20File%203%20-%20The%20Miami%20Marina%20Murder)
    A body washes up at Coral Bay Marina. Two suspects. One killer. Justice awaits.  
 
 4. **Case File 4 - The Vanishing Diamond** (XP: 250)  
