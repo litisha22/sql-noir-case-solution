@@ -1,5 +1,7 @@
 # 🕵️ Case File 1 - The Vanishing Briefcase
 
+---
+
 ## 📖 Case Brief
 1980s Miami. Neon lights, smoky jazz clubs, and one missing briefcase.  
 The Blue Note Lounge was buzzing when it vanished.  
