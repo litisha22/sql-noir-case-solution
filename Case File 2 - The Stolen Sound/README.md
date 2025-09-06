@@ -11,7 +11,7 @@ Your task: **track down the thief** and bring them to justice.
 
 ---
 
-## 🕵️ Objectives
+## 🎯 Objectives
 1. Retrieve the **crime scene report** for the record theft using the date and location.  
 2. Retrieve **witness records** linked to that crime scene to obtain their clues.  
 3. Use the **clues from witnesses** to find the suspect in the suspects table.  
