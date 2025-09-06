@@ -1,4 +1,4 @@
-# 🕵️ Case File 1 - The Vanishing Briefcase
+# 💼 Case File 1 - The Vanishing Briefcase
 
 ---
 
@@ -35,3 +35,11 @@ Our job? Find out who took it — and why.
 
 ## 📊 Final Report
 See [`solution.sql`](solution.sql) for the query that caught the culprit.
+
+---
+
+## 🕶️ Detective’s Note
+A briefcase doesn’t just walk away — someone wanted what was inside.  
+Every glance, every footprint, every alibi could be the missing piece.  
+Trust nothing at face value; the smallest detail may hold the biggest truth.  
+In this city, even silence can speak louder than words.
