@@ -22,7 +22,7 @@ Each folder is a **case file**, packed with witness statements, crime scene evid
 1. **Case File 3 - The Miami Marina Murder** (XP: 200) [`Case File 3 - The Miami Marina Murder`](./Case%20File%203%20-%20The%20Miami%20Marina%20Murder)
    A body washes up at Coral Bay Marina. Two suspects. One killer. Justice awaits.  
 
-2 **Case File 6 - The Vanishing Diamond** (XP: 250) [`Case File 6 - The Vanishing Diamond`](./Case%20File%206%20-%20The%20Vanishing%20Diamond)
+2. **Case File 6 - The Vanishing Diamond** (XP: 250) [`Case File 6 - The Vanishing Diamond`](./Case%20File%206%20-%20The%20Vanishing%20Diamond)
    The “Heart of Atlantis” necklace disappears mid-gala. High society hides deep secrets.  
 
 ---
