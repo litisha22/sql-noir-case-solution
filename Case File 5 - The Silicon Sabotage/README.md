@@ -39,3 +39,11 @@ The investigation will rely on the following tables:
 ## 📝 Final Report
 
 See [`solution.sql`](solution.sql) for the query that unmasks the saboteur behind the Silicon Sabotage.
+
+---
+
+## 🕵️ Detective’s Note  
+Circuits don’t burn themselves, and data doesn’t just vanish.  
+Beneath the neon glow of Miami’s towers, someone sabotaged QuantaX before it could shine.  
+Follow the rivals, trace the lies — in corporate espionage, ambition is the deadliest weapon.
+
