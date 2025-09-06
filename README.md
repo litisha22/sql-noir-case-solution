@@ -19,19 +19,19 @@ Each folder is a **case file**, packed with witness statements, crime scene evid
 ---
 
 ### Intermediate Cases
-3. **Case File 3 - The Miami Marina Murder** (XP: 200) [`Case File 3 - The Miami Marina Murder`](./Case%20File%203%20-%20The%20Miami%20Marina%20Murder)
+1. **Case File 3 - The Miami Marina Murder** (XP: 200) [`Case File 3 - The Miami Marina Murder`](./Case%20File%203%20-%20The%20Miami%20Marina%20Murder)
    A body washes up at Coral Bay Marina. Two suspects. One killer. Justice awaits.  
 
-4. **Case File 4 - The Vanishing Diamond** (XP: 250)  
+2 **Case File 6 - The Vanishing Diamond** (XP: 250) [`Case File 6 - The Vanishing Diamond`](./Case%20File%206%20-%20The%20Vanishing%20Diamond)
    The “Heart of Atlantis” necklace disappears mid-gala. High society hides deep secrets.  
 
 ---
 
 ### Advanced Cases
-5. **Case File 5 - The Midnight Masquerade Murder** (XP: 300)  
+1. **Case File 4 - The Midnight Masquerade Murder** (XP: 300) [`Case File 4 - The Midnight Masquerade Murder`](./Case%20File%204%20-%20The%20Midnight%20Masquerade%20Murder)
    A masked ball at Coconut Grove ends in murder. Behind the mask lies the truth.  
 
-6. **Case File 6 - The Silicon Sabotage** (XP: 1000)  
+2. **Case File 5 - The Silicon Sabotage** (XP: 1000) [`Case File 5 - The Silicon Sabotage`](./Case%20File%205%20-%20The%20Silicon%20Sabotage)
    Miami’s tech giant was ready to unveil groundbreaking innovation… until sabotage struck.  
 
 ---
