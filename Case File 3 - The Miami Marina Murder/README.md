@@ -37,4 +37,8 @@ See [`solution.sql`](solution.sql) for the query that reveals the murderer.
 
 ---
 
-💡 *Stay sharp, detective. In Miami, the water hides more than just reflections.*  
+## 🕵️ Detective’s Note  
+A body adrift in Coral Bay Marina — the waves carried it in, but the truth won’t stay afloat for long.  
+Every slip of an alias, every shadow on Ocean Drive, every whispered check-in could be the tide that carries you to the killer.  
+Stay sharp, detective. In Miami, even the water keeps secrets.
+
