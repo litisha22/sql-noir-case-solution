@@ -41,3 +41,11 @@ Your investigation will use these tables:
 
 The mask slips, and the game’s up. Find the culprit’s trail marked clearly in [solution.sql](./solution.sql).
 
+---
+
+## 🕵️ Detective’s Note
+Behind the velvet masks and whispered laughter, a killer moved unseen.  
+The ballroom’s music masked the truth, but the garden kept its silence — and secrets never stay buried forever.  
+Unmask the lies, follow the patterns, and remember: at a masquerade, the dead don’t dance, but the guilty always leave footprints.
+
+
