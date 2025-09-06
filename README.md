@@ -38,7 +38,7 @@ Each folder is a **case file**, packed with witness statements, crime scene evid
 
 ## 🗂️ What’s Inside Each Case
 - `README.md`: The **case brief** and objectives  
-- `solution.sql`: The **final SQL query** that solves the mystery  
+- `solution.sql`: A **series of revealing queries** that unravel the mystery step-by-step
 
 ---
 
